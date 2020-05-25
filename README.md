@@ -36,10 +36,10 @@ Feel free to contribute by properly commenting and being respectful.
 
 Additional tasks to be executed include:
 
-[ ]Date format verification (date is passed as a string in the YYYY-MM-DD format)
-[ ]Table for date range
-[ ]Search for previous TRM when no data is provided by the API
-[ ]Graph date range
+- [x] Table for date range
+- [ ] Search for previous TRM when no data is provided by the API
+- [ ] Date format verification (date is passed as a string in the YYYY-MM-DD format)
+- [ ] Graph date range
 
 ## Versioning
 

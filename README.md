@@ -13,7 +13,7 @@ Tax obligations with DIAN (Colombian Tax Authority) must consider for reexpressi
 
 ## Deploying
 
-### Prerequisites
+### Prerrequisites
 
 Register for an app token in [Datos.gov Developer Settings](https://www.datos.gov.co/profile/edit/developer_settings).
 
@@ -24,7 +24,7 @@ Dependencies:
 
 It may work with alternative versions but has not been tested in other versions so far.
 
-## Deployment
+### Deployment
 
 * Register and create an account at [Datos Abiertos Portal](https://www.datos.gov.co)
 * Go to [Developer Settings](https://www.datos.gov.co/profile/edit/developer_settings) and create an app and copy the app token to use in the code.
@@ -33,6 +33,13 @@ It may work with alternative versions but has not been tested in other versions 
 ## Contributing
 
 Feel free to contribute by properly commenting and being respectful.
+
+Additional tasks to be executed include:
+
+[ ]Date format verification (date is passed as a string in the YYYY-MM-DD format)
+[ ]Table for date range
+[ ]Search for previous TRM when no data is provided by the API
+[ ]Graph date range
 
 ## Versioning
 

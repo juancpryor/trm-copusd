@@ -11,21 +11,28 @@ As per Colombian regulation, non-exempt agreements and other obligations stipula
 
 Tax obligations with DIAN (Colombian Tax Authority) must consider for reexpression of financial accounts into COP, in which TRM also plays an important part if original account is expressed in USD.
 
-## Purpose of the project
+## Deploying
 
 ### Prerequisites
 
-Register for an app token in [Datos.gov Developer Settings] (https://www.datos.gov.co/profile/edit/developer_settings).
+Register for an app token in [Datos.gov Developer Settings](https://www.datos.gov.co/profile/edit/developer_settings).
+
+Dependencies:
+
+* jQuery 3.5.1
+* Bootstrap 4.5.0
+
+It may work with alternative versions but has not been tested in other versions so far.
 
 ## Deployment
 
-* Register and create an account at [Datos Abiertos Portal] (https://www.datos.gov.co)
-* Go to [Developer Settings] (https://www.datos.gov.co/profile/edit/developer_settings) and create an app and copy the app token to use in the code.
+* Register and create an account at [Datos Abiertos Portal](https://www.datos.gov.co)
+* Go to [Developer Settings](https://www.datos.gov.co/profile/edit/developer_settings) and create an app and copy the app token to use in the code.
 * Copy & Paste, and use.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Feel free to contribute by properly commenting and being respectful.
 
 ## Versioning
 

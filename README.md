@@ -21,6 +21,7 @@ Dependencies:
 
 * jQuery 3.5.1
 * Bootstrap 4.5.0
+* dateFns 2.0.0
 
 It may work with alternative versions but has not been tested in other versions so far.
 
